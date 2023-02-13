@@ -1,0 +1,34 @@
+.bookingTitle {
+  font-size: 35px !important;
+  font-weight: 600 !important;
+  margin-bottom: 25px !important;
+}
+.bookingHeading {
+  font-size: 35px !important;
+  font-weight: 600;
+  font-family: "Nanum Myeongjo", serif !important;
+}
+.card-css {
+  background: #222d32 !important;
+
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+}
+
+/* .bgShadow {
+  background-color: rgba(0, 0, 0, 0.073);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+} */
+.titleCss {
+  color: orange !important;
+  font-family: "Cormorant", serif;
+  font-size: 22px !important;
+  padding: 0;
+}
+.detailCss {
+  font-size: 18px !important;
+  color: #fff !important;
+  font-family: "Nanum Myeongjo", serif !important;
+}

@@ -1,0 +1,35 @@
+* {
+  color: white !important;
+}
+.bg-dark {
+  background: #1a2226 !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.973), 0 3px 6px rgba(0, 0, 0, 0.658) !important;
+}
+.logo-style {
+  font-family: "Kavoon", cursive;
+  font-size: 35px;
+  margin-left: 25px;
+}
+.style-nav {
+  font-family: "Kavoon";
+  font-size: 20px;
+  /* padding: 10px; */
+}
+.style-nav li {
+  margin: 0 20px;
+}
+
+.dropdown-menu-style {
+  background-color: white;
+  color: black;
+}
+.dropdownToggleButton {
+  margin-right: 20px;
+}
+
+.dropdownHover1 {
+  margin-top: 38px;
+}
+.dropdownHover:hover {
+  background-color: #1a2226;
+}

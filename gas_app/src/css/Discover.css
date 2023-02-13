@@ -1,0 +1,23 @@
+.imagesDiscover {
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.imagesDiscover img {
+  height: 320px;
+  width: 80%;
+}
+.discover-para {
+  font-size: 22px !important;
+}
+.col-md-4 {
+  margin: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+.imagesDiscover2 img {
+  height: 50px;
+  width: 50px;
+}

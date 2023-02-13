@@ -1,0 +1,25 @@
+/* * { */
+/* } */
+body {
+  background: #222d32;
+}
+.slider-img {
+  height: 400px;
+  width: 100%;
+  /* object-fit: cover; */
+  background-size: cover;
+}
+.carousel-itemImg {
+  /* opacity: 0.8 !important; */
+  filter: grayscale(40%) brightness(100%);
+}
+.discoverHeading {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 600;
+}
+.discoverHeading span {
+  color: orange !important;
+}
+.mx-4 {
+  color: orange !important;
+}

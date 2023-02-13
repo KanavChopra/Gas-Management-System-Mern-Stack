@@ -1,0 +1,51 @@
+.landing {
+  padding-top: 175px;
+  margin-left: 45px;
+}
+
+.landingTitle {
+  letter-spacing: 10px;
+  color: orange !important;
+  font-size: 100px !important;
+  font-family: "Cormorant", serif !important;
+}
+.landingSlogan {
+  text-transform: capitalize;
+  letter-spacing: 10px;
+  font-size: 40px !important;
+  font-family: "Abel", sans-serif !important;
+}
+.landingSlogan span {
+  font-size: 50px !important;
+  font-weight: 600;
+}
+.landingButton {
+  background-color: transparent !important;
+  border: 1px solid grey;
+  font-size: 25px;
+  padding: 10px 15px;
+  margin-top: 10px;
+}
+.landingButton:hover {
+  border: 1px solid grey;
+}
+
+/* ~~~~~~~ INIT. BTN ~~~~~~~ */
+
+.btn1 {
+  /* position: relative !important; */
+  padding: 1.4rem 4.2rem !important;
+  padding-right: 3.1rem !important;
+  font-size: 1rem !important;
+  /* color: var(--inv) !important; */
+  letter-spacing: 1.1rem !important;
+  text-transform: uppercase !important;
+  transition: all 500ms cubic-bezier(0.77, 0, 0.175, 1) !important;
+  cursor: pointer !important;
+  /* user-select: none !important; */
+}
+
+.btn1:hover {
+  background-color: grey !important;
+  color: black !important;
+}

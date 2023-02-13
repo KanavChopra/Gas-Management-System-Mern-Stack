@@ -1,0 +1,12 @@
+[
+  {
+    "name": "LPG Gas Cylinder 5 Kg",
+    "rent": 402,
+    "maxCount": 100
+  },
+  {
+    "name": "LPG Gas Cylinder 14.2 Kg",
+    "rent": 1602,
+    "maxCount": 150
+  }
+]

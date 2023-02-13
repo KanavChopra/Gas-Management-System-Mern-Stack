@@ -1,0 +1,35 @@
+.outer-div {
+  border-radius: 5px;
+  margin: 15px;
+  border: 1px solid grey;
+  padding: 25px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.smallImg {
+  height: 200px;
+  width: 100% !important;
+  border-radius: 5px;
+}
+h1 {
+  font-size: 25px !important;
+  font-family: "Cormorant", serif;
+}
+h1 span {
+  color: orange !important;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Abel", sans-serif;
+}
+p {
+  font-size: 25px !important;
+  font-family: "Cormorant", serif !important;
+}
+p span {
+  color: orange !important;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Abel", sans-serif;
+}
+.book {
+  background-color: #0db8de;
+}
